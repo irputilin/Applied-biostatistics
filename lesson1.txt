@@ -1,0 +1,32 @@
+Для успешной работы на лабораторных занятиях по курсу "Прикладная биологическая статистика
+и элементы программирования" необходимо установить следующие программы и утилиты:
+
+1. Язык программирования R
+
+Windows:
+Ссылка для скачивания: https://cran.r-project.org/bin/windows/base/R-4.5.1-win.exe
+
+macOS (на процессорах Apple: M1, M2 ...):
+Ссылка для скачивания: https://cran.r-project.org/bin/macosx/big-sur-arm64/base/R-4.5.1-arm64.pkg
+
+macOS (на процессорах Intel):
+Ссылка для скачивания: https://cran.r-project.org/bin/macosx/big-sur-x86_64/base/R-4.5.1-x86_64.pkg
+
+Linux
+Ссылка для скачивания:
+https://cran.r-project.org/bin/linux/
+Там ограниченное количество дистрибутивов, но всегда есть поисковик, в котором можно найти информацию о том,
+как установить R и RStudio на ваш дистрибутив
+
+2. Набор утилит RTools (Только для Windows)
+Ссылка для скачивания: https://cran.r-project.org/bin/windows/Rtools/rtools45/files/rtools45-6608-6492.exe
+Для архитектуры ARM: https://cran.r-project.org/bin/windows/Rtools/rtools45/files/rtools45-aarch64-6608-6492.exe
+
+
+3. Среда для разработки RStudio
+Ссылка для скачивания: https://posit.co/download/rstudio-desktop/
+Выбираете свою OS (дистрибутив) и устанавливаете
+
+
+Работать на лабораторных занятиях будем именно в RStudio, а не в Rgui (стандартная среда для программирования, 
+устанавливаемая совместно с самим языком), но если у вас есть желание и храбрость - you are welcome!
