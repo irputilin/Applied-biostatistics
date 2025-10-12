@@ -9,3 +9,7 @@ _3 занятие_ - Типы данных: категориальные, лог
 _4 занятие_ - Преобразование данных. Центральные моменты распределений. Знакомство с _boxplot_
 
 _5 занятие_ - Проверка нормальности распределения. Знакомство с циклом _for_. Написание собственных функций
+
+![Выбор релевантный статистических критериев]([http://url/to/img.png](https://yandex.ru/images/search?cbir_id=7873244%2FpW_vRPNFLyXfn3zjZlitnA4413&tmpl_version=releases-frontend-images-v1.1640.0__ff8041f490b2fefb824dfe686374722299bf9f6d&rpt=imageview&lr=62&url=https%3A%2F%2Favatars.mds.yandex.net%2Fget-images-cbir%2F7873244%2FpW_vRPNFLyXfn3zjZlitnA4413%2Forig&cbir_page=similar))
+
+_6 занятие_ - Сравнение выборок с использованием _параметрических_ и _непараметрических_ критериев. Непрерывные данные
