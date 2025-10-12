@@ -10,6 +10,6 @@ _4 занятие_ - Преобразование данных. Централь
 
 _5 занятие_ - Проверка нормальности распределения. Знакомство с циклом _for_. Написание собственных функций
 
-![Stat_critetia](https://github.com/irputilin/Applied-biostatistics/Relevant_stat_criteria.png?raw=true)
+![Stat_critetia](https://github.com/irputilin/Applied-biostatistics/blob/main/Relevant_stat_criteria.png?raw=true)
 
 _6 занятие_ - Сравнение выборок с использованием _параметрических_ и _непараметрических_ критериев. Непрерывные данные
