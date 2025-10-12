@@ -75,7 +75,7 @@ sd(df$weight, na.rm = T)
 sqrt(var(df$weight, na.rm = T))
 
 boxplot(df$weight, horizontal = T)     # horizontal = T - для облегчения восприятия (на первых этапах)
-abline(м = median(df$weight, na.rm = T), col = 'green', lwd = 2)
+abline(v = median(df$weight, na.rm = T), col = 'green', lwd = 2)
 abline(h = mean(df$weight, na.rm = T), col = 'red', lwd = 2)
 abline(h = mlv(df$weight, na.rm = T), col = 'blue', lwd = 2)
 
@@ -105,4 +105,5 @@ try <- quantile(na.omit(df$weight),
 2. Посчитать моду по 3 столбцам
 3. Нарисовать boxplotы по 3 столбцам
 4. Линиями обозначить mean, median, mode
+
 5. Гистограммы с графиком плотности (+ пункт 4)
