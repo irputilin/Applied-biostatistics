@@ -10,7 +10,7 @@ biopsy
 df <- na.omit(biopsy)
 
 
-pca_res <- prcomp(df[,2:10], scale = T, center = T, retx = T)l
+pca_res <- prcomp(df[,2:10], scale = T, center = T, retx = T)
 names(pca_res)
 
 summary(pca_res)
@@ -92,4 +92,5 @@ plot6 <- fviz_eig(pca_res, addlabels = T)+
 
 ggarrange(plot1, plot6, plot4, plot5, ncol = 2,
           nrow = 2, labels = c('A', 'B', 'C', 'D'))
+
 
