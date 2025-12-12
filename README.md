@@ -1,6 +1,6 @@
 ## **Прикладная биологическая статистика и элементы программирования (2025)**
 
-[_1 занятие_](/Как установить R, RTools и RStudio (lesson1)) - Установка R, RTools, RStudio. Знакомство с интерфейсом RStudio
+[_1 занятие_]([/Как установить R, RTools и RStudio (lesson1)](https://github.com/irputilin/Applied-biostatistics/blob/main/Как%20установить%20R%2C%20RTools%20и%20RStudio%20(lesson1))) - Установка R, RTools, RStudio. Знакомство с интерфейсом RStudio
 
 _2 занятие_ - Типы данных: непрерывные, шкальные, категориальные. Синтаксис R. Базовая графика
 
