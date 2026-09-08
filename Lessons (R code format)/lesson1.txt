@@ -19,7 +19,7 @@ https://cran.r-project.org/bin/linux/
 как установить R и RStudio на ваш дистрибутив
 
 2. Набор утилит RTools (Только для Windows)
-Ссылка для скачивания: https://cran.r-project.org/bin/windows/Rtools/rtools45/files/rtools45-6608-6492.exe
+Ссылка для скачивания: https://cran.r-project.org/bin/windows/Rtools/rtools45/files/rtools45-6768-6492.exe
 Для архитектуры ARM: https://cran.r-project.org/bin/windows/Rtools/rtools45/files/rtools45-aarch64-6608-6492.exe
 
 
