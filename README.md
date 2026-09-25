@@ -2,6 +2,6 @@
 
 [_1 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/lesson1.txt) - Установка R, RTools, RStudio. Знакомство с интерфейсом RStudio
 
-_2 занятие_ - Типы данных: непрерывные, шкальные, категориальные. Синтаксис R. Базовая графика
+[_2 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2026/lesson2.R) - Типы данных: непрерывные, шкальные, категориальные. Синтаксис R. Базовая графика
 
-_3 занятие_ - Типы данных: пропущенные данные. Знакомство с _data.frame_, построение гистограмм
+[_3 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2026/lesson3.R) - Типы данных: пропущенные данные. Знакомство с _data.frame_, построение гистограмм
