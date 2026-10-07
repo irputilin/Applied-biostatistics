@@ -7,3 +7,5 @@
 [_3 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2026/lesson3.R) - Типы данных: пропущенные данные. Знакомство с _data.frame_, построение гистограмм
 
 [_4 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2026/lesson4.R) - Логические операторы. Загрузка таблиц из файла. Визуализация центральных моментов распределений
+
+[_5 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2026/lesson5.R) - Описательные статистики. Сохранение файлов в формате .csv
