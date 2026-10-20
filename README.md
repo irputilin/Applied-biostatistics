@@ -11,3 +11,5 @@
 [_5 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2026/lesson5.R) - Описательные статистики. Сохранение файлов в формате .csv
 
 [_6 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2026/lesson6.R) - Проверка нормальности распределения
+
+[_7 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2025/lesson6.R) - Сравнение выборок с использованием параметрических и непараметрических критериев. Непрерывные данные
