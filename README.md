@@ -12,4 +12,10 @@
 
 [_6 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2026/lesson6.R) - Проверка нормальности распределения
 
-[_7 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2025/lesson6.R) - Сравнение выборок с использованием параметрических и непараметрических критериев. Непрерывные данные
+[_7-8 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2025/lesson6.R) - Сравнение выборок с использованием параметрических и непараметрических критериев. Непрерывные данные
+
+[_9 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2025/lesson8.R) - Продвинутая графикаЗнакомство с "продвинутой" графикой - библиотека ggplot2
+
+[_10 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2025/lesson9.R) - Корреляционный анализ
+
+[_11 занятие_](https://github.com/irputilin/Applied-biostatistics/blob/main/Lessons%20(R%20code%20format)/2025/lesson10.R) - Одномерная линейная регрессия
